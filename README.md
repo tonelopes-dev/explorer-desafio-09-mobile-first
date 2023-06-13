@@ -1,13 +1,11 @@
-# Space Cream Desktop - Grid com Animações (Stage 03)
+<h1 align="center">🚀 Projeto Grid com Animações </h1>
 
 > Desafio proposto no Stage 03 do Explorer da Rocketseat
 
 ![Screenshot](./preview/preview.gif)
 
-# expolorer-desafio-07-formulario-mentoria
+# expolorer-desafio-09-mobile-first
 
-
-<h1 align="center">🚀 Projeto Formulário para Mentoria </h1>
 
 <p align="center">
 Este é um projeto da RocketSeat do programa Explore composto por 20 módulos, com dezenas de aulas e tem como objetivo desenvolver habilidades técnicas e comportamentais a fim de que o aluno consiga se posicionar como profissional, conquiste oportunidades no mercado de trabalho e lide com desafios reais.são projetos do curso, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -25,19 +23,16 @@ Este é um projeto da RocketSeat do programa Explore composto por 20 módulos, c
 
 <br>
 
-<p align="center">
-  <img src="images/print-project.png" width="100%">
-</p>
 <br>
 
-[Visualise o Projeto aqui](https://vercel.com/tonelopes/expolorer-desafio-07-formulario-mentoria)
+[Visualise o Projeto aqui](https://explorer-desafio-09-mobile-first.vercel.app/)
 
 
 
 
 ## 💻 Sobre o Projeto
 
-Este projeto foi desenvolvido com o intuito de reforçar os conhecimentos sobre formulários, suas tags e propriedades.
+Este projeto foi desenvolvido com o intuito de reforçar os conhecimentos sobre Layout Grid e animações de CSS.
 
 ## 🚀 Tecnologias
 
@@ -49,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🪐 Link
 
-Você pode visualizar o projeto através [DESSE LINK](https://vercel.com/tonelopes/expolorer-desafio-07-formulario-mentoria). 
+Você pode visualizar o projeto através [DESSE LINK](https://explorer-desafio-09-mobile-first.vercel.app/). 
 
 ## :memo: Licença
 
