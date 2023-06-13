@@ -2,7 +2,7 @@
 
 > Desafio proposto no Stage 03 do Explorer da Rocketseat
 
-![Screenshot](./.github/preview.gif)
+![Screenshot](./preview/preview.gif)
 
 # expolorer-desafio-07-formulario-mentoria
 
